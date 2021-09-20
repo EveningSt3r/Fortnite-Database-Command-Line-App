@@ -9,8 +9,8 @@ TO RUN:
 Download the .jar file and the .db file
 Place the jar and db in a folder TOGETHER.
 
-Open your terminal of choice, navigate to the folder (cd <folder> on Windows)
-"java -jar <name>.jar"
+Open your terminal of choice, navigate to the folder (cd (folder) on Windows)
+"java -jar (name).jar"
   
 The way the database displays connections may cause confusion. 
 The source image displays games as the crossovers that cause them to connect to Fortnite.
