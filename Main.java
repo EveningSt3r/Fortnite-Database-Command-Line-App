@@ -16,7 +16,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
             int quit = 0;
-            System.out.println("Welcome to the Fortnite Database by EveningSt3r on Github! This is a test command line" +
+            System.out.println("Welcome to the Fortnite Database by Quadsar on Github! This is a test command line" +
                     "application, as I am working on more projects for this database file in the future!");
             System.out.println("--------------------------------------------------------------------------------");
             System.out.println("This database contains the various ways certain media is connected to Fortnite. ");
